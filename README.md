@@ -36,3 +36,4 @@ Me dedico a construir herramientas que combinan desarrollo web clásico con LLMs
 ## 📫 Contacto
 
 - GitHub: [@carlos-anpr](https://github.com/carlos-anpr)
+- LinkedIn: [carlos-anton-prieto](https://www.linkedin.com/in/carlos-anton-prieto)
