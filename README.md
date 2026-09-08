@@ -12,10 +12,11 @@ Me dedico a construir herramientas que combinan desarrollo web clásico con LLMs
 |---|---|---|
 | [nsh](https://github.com/carlos-anpr/nsh) | Shell interactiva en Rust asistida por LLM: lenguaje natural → comandos, política de seguridad en código, conectores MCP | Rust, Anthropic/OpenAI/Ollama |
 | [excel-to-kpi](https://github.com/carlos-anpr/excel-to-kpi) | Sube un Excel y obtén un dashboard con KPIs, gráficos, insights y predicciones al instante | TypeScript, React, FastAPI, pandas |
-| [medrag-clinical-assistant](https://github.com/carlos-anpr/medrag-clinical-assistant) | Diagnóstico asistido por IA con RAG médico: triaje, diagnósticos diferenciales e interpretación de analíticas | Next.js, Express, FAISS, Gemini |
+| [medrag-clinical-assistant](https://github.com/carlos-anpr/medrag-clinical-assistant) | Diagnóstico asistido por IA con RAG médico: triaje, diagnósticos diferenciales e interpretación de analíticas | Next.js, Express, RAG, FAISS, Gemini |
 | [rioja-agenda-hub](https://github.com/carlos-anpr/rioja-agenda-hub) | Crawler unificado de eventos de La Rioja, normalizados y servidos en una web | Python, Playwright, Streamlit |
 | [semble](https://github.com/carlos-anpr/semble) | REST API Gateway sobre la API GraphQL de Semble (gestión clínica), con OpenAPI 3.0, Swagger y tests Jest | Node.js, Express |
 | [livecode](https://github.com/carlos-anpr/livecode) | Editor online de HTML/CSS/JS con vista previa en vivo | React, Monaco, Tailwind, Vite |
+| [ai-cv-express](https://github.com/carlos-anpr/ai-cv-express) | Generación de currículums, cartas de presentación y quizzes de entrevista personalizados con IA | React, Vite, Gemini, Clerk |
 | [notificaciones](https://github.com/carlos-anpr/notificaciones) | Microservicio genérico de notificaciones multicanal dirigido por eventos | Node.js, RabbitMQ, Docker, Jest |
 
 ## 🛠️ Stack
