@@ -10,6 +10,7 @@ Me dedico a construir herramientas que combinan desarrollo web clásico con LLMs
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [plume](https://github.com/carlos-anpr/plume) | Bloc de notas nativo con vista previa Markdown en vivo: diagramas Mermaid, fórmulas KaTeX, gráficos ECharts y tablas | Rust, Tauri 2, TypeScript, CodeMirror 6 |
 | [nsh](https://github.com/carlos-anpr/nsh) | Shell interactiva en Rust asistida por LLM: lenguaje natural → comandos, política de seguridad en código, conectores MCP | Rust, Anthropic/OpenAI/Ollama |
 | [excel-to-kpi](https://github.com/carlos-anpr/excel-to-kpi) | Sube un Excel y obtén un dashboard con KPIs, gráficos, insights y predicciones al instante | TypeScript, React, FastAPI, pandas |
 | [medrag-clinical-assistant](https://github.com/carlos-anpr/medrag-clinical-assistant) | Diagnóstico asistido por IA con RAG médico: triaje, diagnósticos diferenciales e interpretación de analíticas | Next.js, Express, RAG, FAISS, Gemini |
@@ -27,6 +28,7 @@ Me dedico a construir herramientas que combinan desarrollo web clásico con LLMs
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
+![Tauri](https://img.shields.io/badge/-Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
