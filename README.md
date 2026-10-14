@@ -1,5 +1,3 @@
-# Hola, soy Carlos 👋
-
 **Desarrollador full-stack · IA aplicada a productos reales**
 
 Me dedico a construir herramientas que combinan desarrollo web clásico con LLMs: editores de código en vivo, generadores de CV, asistentes clínicos con RAG y microservicios orientados a eventos. Me interesa que las cosas funcionen de verdad: APIs documentadas, tests, seguridad y despliegues reales.
