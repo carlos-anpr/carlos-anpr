@@ -11,14 +11,14 @@ Me dedico a construir herramientas que combinan desarrollo web clásico con LLMs
 | [plume](https://github.com/carlos-anpr/plume) | Bloc de notas nativo con vista previa Markdown en vivo: diagramas Mermaid, fórmulas KaTeX, gráficos ECharts y tablas | Rust, Tauri 2, TypeScript, CodeMirror 6 |
 | [destello](https://github.com/carlos-anpr/destello) | Capturador de pantalla para Windows con anotaciones: Ctrl+V en una carpeta crea el PNG, captura menús y ventanas, instalador sin admin | Rust, Win32, Direct2D, Inno Setup |
 | [herdr-gitview](https://github.com/carlos-anpr/herdr-gitview) | Plugin de herdr: grafo de commits estilo Git Graph, diffs, PRs de GitHub, MRs de GitLab y explicaciones con IA | Rust, TUI, GitHub/GitLab API |
+| [herdr-agentview](https://github.com/carlos-anpr/herdr-agentview) | Plugin de herdr: centro de control de agentes de código en vivo, con mosaico de pantallas, mensajes, interrupción y explicaciones con IA | Rust, ratatui, LLM configurable |
+| [herdr-dbview](https://github.com/carlos-anpr/herdr-dbview) | Plugin de herdr: consola de base de datos con IA, lenguaje natural → SQL probado → filas reales (solo lectura) | Rust, ratatui, PostgreSQL, Oracle, LLM configurable |
 | [quickask](https://github.com/carlos-anpr/quickask) | Barra de IA para el escritorio Linux con un atajo de teclado: respuestas en streaming, ve tu pantalla y usa el modelo que quieras sobre OpenCode | Rust, Tauri 2, TypeScript, OpenCode |
 | [migas](https://github.com/carlos-anpr/migas) | Diario de trabajo con doble Ctrl: guarda páginas, issues de Jira, MRs de GitLab, tickets o selecciones; las relaciona solo, avisa de cambios y resume el día con IA | Rust, Tauri 2, SQLite FTS5, extensión Chrome |
 | [nsh](https://github.com/carlos-anpr/nsh) | Shell interactiva en Rust asistida por LLM: lenguaje natural → comandos, política de seguridad en código, conectores MCP | Rust, Anthropic/OpenAI/Ollama |
 | [excel-to-kpi](https://github.com/carlos-anpr/excel-to-kpi) | Sube un Excel y obtén un dashboard con KPIs, gráficos, insights y predicciones al instante | TypeScript, React, FastAPI, pandas |
 | [medrag-clinical-assistant](https://github.com/carlos-anpr/medrag-clinical-assistant) | Diagnóstico asistido por IA con RAG médico: triaje, diagnósticos diferenciales e interpretación de analíticas | Next.js, Express, RAG, FAISS, Gemini |
-| [rioja-agenda-hub](https://github.com/carlos-anpr/rioja-agenda-hub) | Crawler unificado de eventos de La Rioja, normalizados y servidos en una web | Python, Playwright, Streamlit |
 | [semble](https://github.com/carlos-anpr/semble) | REST API Gateway sobre la API GraphQL de Semble (gestión clínica), con OpenAPI 3.0, Swagger y tests Jest | Node.js, Express |
-| [notificaciones](https://github.com/carlos-anpr/notificaciones) | Microservicio genérico de notificaciones multicanal dirigido por eventos | Node.js, RabbitMQ, Docker, Jest |
 
 ## 🛠️ Stack
 
